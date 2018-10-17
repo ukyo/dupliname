@@ -1,3 +1,5 @@
+[![CircleCI](https://circleci.com/gh/ukyo/dupliname.svg?style=svg)](https://circleci.com/gh/ukyo/dupliname)
+
 # dupliname
 
 Duplicate a name.
