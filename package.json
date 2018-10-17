@@ -1,8 +1,9 @@
 {
   "name": "dupliname",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "duplicate name",
-  "main": "index.js",
+  "main": "dist/dupliname.js",
+  "types": "dist/dupliname.d.ts",
   "author": {
     "name": "Syu Kato",
     "email": "ukyo@gmail.com"
